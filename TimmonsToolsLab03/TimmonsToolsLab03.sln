@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimmonsToolsLab03.CSharp", "TimmonsToolsLab03.CSharp.csproj", "{ED61B0E4-7240-01D8-D4B3-1FBDAB2CAE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED61B0E4-7240-01D8-D4B3-1FBDAB2CAE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED61B0E4-7240-01D8-D4B3-1FBDAB2CAE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED61B0E4-7240-01D8-D4B3-1FBDAB2CAE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED61B0E4-7240-01D8-D4B3-1FBDAB2CAE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
